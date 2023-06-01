@@ -1,5 +1,5 @@
 # CIU - React Landing Page
-## Laura Novas
+### Laura Novas
 
 # Landing page made with React and Tailwind
 
